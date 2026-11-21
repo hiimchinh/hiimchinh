@@ -6,6 +6,7 @@ Engineer in Hanoi, Vietnam (UTC+7). For seven years at [Stringee](https://string
 
 | Project | What it does |
 |---|---|
+| [colliedesk](https://github.com/colliedesk/colliedesk) | Open-source helpdesk in Go, React and PostgreSQL. Tenant data is isolated with PostgreSQL row-level security; help centers run on customer domains. |
 | [vidiq-creator-copilot](https://github.com/hiimchinh/vidiq-creator-copilot) | Checks AI answers over vidIQ MCP tool results: every number links back to the tool call and field it came from. |
 | [proof-qc-agent](https://github.com/hiimchinh/proof-qc-agent) | Go agent that triages sticker artwork before proofing, with a multi-model eval that retires models that don't deliver. |
 | [metabase-ci-health](https://github.com/hiimchinh/metabase-ci-health) | Weekly CI health report for metabase/metabase from public GitHub Actions data: flaky jobs, p95 run time, runner wait. |
